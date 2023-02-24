@@ -1,8 +1,8 @@
-##### DAT510 ASSIGNMENT 1, SONDRE TENNØ #####
-#Code is written in Python, in Jupyter Notebook.
-#Security_Assignment1 is the PDF report of the assignment
-#Poly-alphabetic cipher is the code for Part 1.
-#SDES_assignment.ipynb and TripleSDES_assignment.ipynb are the codes for Part 2.
-#Security_assignment1 file is the powerpoint file.
-#1 and 2 are videoreording of me talking over the presentation. The free recording software i downloaded had maximum of 5 minute, so I had to make two recordings.
-#Start with recording 1 and then go to 2.
+# Cryptanalysis-of-primitive-ciphers
+## In this assignment the goal was to get familiar with primitive ciphers in cryptanalysis.
+Task 1 was about cracking a poly-alphabetic cipher, while in task 2, we would get
+familiar with the simplified version of the DES algorithm. In Task 1 I managed to
+decipher the cipher, calculate execution times for different key lengths and I did not
+manage to decipher the last cipher with the same tools as I did the first. In task 2 I
+deciphered both tables with SDES and TripleSDES, but I did not manage to do task
+3 and 4 on part 2.
